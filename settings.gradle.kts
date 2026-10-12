@@ -22,6 +22,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "LabEx3"
+=======
+rootProject.name = "LabEx1"
+>>>>>>> e2cc7c13987d43a4be74317b3450d1ae1ed51812
 include(":app")
  

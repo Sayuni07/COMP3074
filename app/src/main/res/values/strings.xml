@@ -1,3 +1,9 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">LabEx3</string>
+=======
+    <string name="app_name">LabEx1</string>
+    <string name="message">Hello COMP3074</string>
+    <string name="btn_label">Click Me!</string>
+>>>>>>> e2cc7c13987d43a4be74317b3450d1ae1ed51812
 </resources>

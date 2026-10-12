@@ -10,12 +10,19 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.LabEx3">
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.LabEx3"
+=======
+        android:theme="@style/Theme.LabEx1">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+>>>>>>> e2cc7c13987d43a4be74317b3450d1ae1ed51812
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
